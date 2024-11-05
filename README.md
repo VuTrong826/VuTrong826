@@ -64,6 +64,3 @@
 # Certificates:
 ## AI/ Machine Learning/ Deep Learning Foundation
 ![AI/ Machine Learning/ Deep Learning Foundation](https://github.com/VuTrong826/Image-Certificates/blob/main/AI-ML-DL.PNG)
-
-## Fundamentals of Deep Learning
-![Fundamentals of Deep Learning](https://github.com/VuTrong826/Image-Certificates/blob/main/NVIDIA.pdf)
