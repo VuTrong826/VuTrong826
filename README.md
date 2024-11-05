@@ -66,4 +66,4 @@
 ![AI/ Machine Learning/ Deep Learning Foundation](https://github.com/VuTrong826/Image-Certificates/blob/main/AI-ML-DL.pdf)
 
 ## Fundamentals of Deep Learning
-![Fundamentals of Deep Learning](file:///C:/Users/Admin/Downloads/My%20Learning%20_%20NVIDIA.pdf)
+![Fundamentals of Deep Learning](https://github.com/VuTrong826/Image-Certificates/blob/main/NVIDIA.pdf)
