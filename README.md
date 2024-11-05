@@ -59,6 +59,15 @@
   </tr>
 </table>
 
+# Certificates:
+
+## AI / Machine Learning / Deep Learning Foundation
+[![AI / Machine Learning / Deep Learning Foundation](https://via.placeholder.com/150)](https://github.com/VuTrong826/Image-Certificates/blob/main/AI-ML-DL.pdf)  
+*Click the image to view the certificate*
+
+## Fundamentals of Deep Learning
+[![Fundamentals of Deep Learning](https://via.placeholder.com/150)](https://github.com/VuTrong826/Image-Certificates/blob/main/NVIDIA.pdf)  
+*Click the image to view the certificate*
 
 
 # Certificates:
