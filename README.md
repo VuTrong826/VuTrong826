@@ -20,10 +20,10 @@
   <a href="https://www.facebook.com/vutrong8602" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
-  <a href="https://github.com/TienNHM" alt="Github">
+  <a href="https://github.com/VuTrong826" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="mailto:tiennhm.it@gmail.com" alt="Email">
+  <a href="vutrong8602@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
