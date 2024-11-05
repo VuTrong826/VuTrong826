@@ -5,7 +5,7 @@
 </p>
 
 
-- ✍ I'm a fresher AI Engineer 
+- ✍ I'm a inter AI Engineer 
 
 <br />
 
@@ -14,32 +14,26 @@
 [![Join the chat at https://gitter.im/TienNHM/Github-Profile-Tutorial](https://badges.gitter.im/TienNHM/Github-Profile-Tutorial.svg)](https://gitter.im/TienNHM/Github-Profile-Tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 <p align="center">
-  <a href="https://linkedin.com/in/tien-nhm" target="_blank">
+  <a href="www.linkedin.com/in/trong-vũ-507620285" target="_blank">
     <img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/>
   </a>
-  <a href="https://www.facebook.com/01.tien" alt="Facebook">
+  <a href="https://www.facebook.com/vutrong8602" alt="Facebook">
     <img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" target="_blank" />
   </a> 
   <a href="https://github.com/TienNHM" alt="Github">
     <img src="https://img.icons8.com/fluent/48/000000/github.png"/>
   </a> 
-  <a href="https://www.youtube.com/channel/UCaRr1SjyHm61RrLY-DIBm1g" alt="Youtube channel" target="_blank" >
-    <img src="https://img.icons8.com/fluent/48/000000/youtube-play.png"/>
-  </a>
-  <a href="https://www.kaggle.com/nguyenhuynhminhtien" alt="Kaggle" target="_blank" >
-    <img src="https://img.icons8.com/windows/48/000000/kaggle.png"/>
-  </a>
   <a href="mailto:tiennhm.it@gmail.com" alt="Email">
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
 
 ## Skills:
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="48" height="48"/> 
   <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/>
   <img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/matlab.png"/>
   <img src="https://img.icons8.com/color/48/000000/git.png"/>
   <img src="https://img.icons8.com/color/48/000000/github-2.png"/>
@@ -47,7 +41,6 @@
   <img src="https://img.icons8.com/color/48/null/visual-studio--v2.png"/>
   <img src="https://img.icons8.com/dusk/48/000000/anaconda.png"/>
   <img src="https://img.icons8.com/fluent/48/000000/spyder-ide.png"/>
-  <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
 ## Activities:
@@ -55,7 +48,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="tiennhm" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide=CSS&include_all_commits=true" alt="tiennhm" width="100%"/>
       <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="tiennhm" width="100%"/>
     </td>
     <td>
@@ -66,7 +59,11 @@
   </tr>
 </table>
 
+
+
 # Certificates:
+## AI/ Machine Learning/ Deep Learning Foundation
+![AI/ Machine Learning/ Deep Learning Foundation]([https://example.com/path_to_certificate_image_1.jpg](https://drive.google.com/file/d/1Q92pw1FuZyFk9eV6KZPuGB36iZJCcC4Q/view))
 
-<img align="right" width="400" src="https://github.githubassets.com/images/modules/profile/profile-joined-github.svg">
-
+## Fundamentals of Deep Learning
+![Fundamentals of Deep Learning](file:///C:/Users/Admin/Downloads/My%20Learning%20_%20NVIDIA.pdf)
