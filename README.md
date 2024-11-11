@@ -4,8 +4,6 @@
 📊 Currently focused on data analysis and building AI models<br/>
 👩🏻‍🎓 Studying Artificial Intelligence at the University of Science and Technology, University of Danang<br/>
 💡 Developing machine learning models, exploring technology, and optimizing study workflows<br/>
-🌱 Documenting my self-learning and discoveries in my digital garden<br/>
-
                                                                        
 <p align="center">
   <h3 align="center">A Passionate AI Developer From VietNam 🇻🇳 </h3>
