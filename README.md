@@ -6,7 +6,7 @@
 🌱 Documenting my self-learning and discoveries in my digital garden<br/>
 📊 Currently focused on data analysis and building AI models<br/>
 <p align="center">
-  <h3 align="center">A Passionate Developer From VietNam 🇻🇳 </h3>
+  <h3 align="center">A Passionate AI Developer From VietNam 🇻🇳 </h3>
 </p>
 
 <br />
