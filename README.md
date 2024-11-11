@@ -1,11 +1,13 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Vu Trong</h1>
+👩🏻‍💻 AI student sharing my journey and insights in machine learning<br/>
+👩🏻‍🎓 Studying Artificial Intelligence at the University of Science and Technology, University of Danang<br/>
+💡 Developing machine learning models, exploring technology, and optimizing study workflows<br/>
+🌱 Documenting my self-learning and discoveries in my digital garden<br/>
+📊 Currently focused on data analysis and building AI models<br/>
 <p align="center">
   <h3 align="center">A Passionate Developer From VietNam 🇻🇳 </h3>
 </p>
-
-
-- ✍ I'm a inter AI Engineer 
 
 <br />
 
@@ -27,6 +29,17 @@
     <img src="https://img.icons8.com/fluent/48/000000/mailing.png"/>
   </a>
 </p>
+
+# 💻 Tech Stack
+<!-- Badges from https://github.com/Ileriayo/markdown-badges -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-3776AB?style=for-the-badge&logo=Matplotlib&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 
 ## Skills:
@@ -50,8 +63,7 @@
 <table style="width:100%;">
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&layout=compact&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng&hide=CSS&include_all_commits=true" alt="vutrong" width="100%"/>
-      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="vutrong" width="100%"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=tiennhm&theme=radical&hide_border=false&include_all_commits=true&count_private=true&custom_title=Hoạt%20động%20trên%20GitHub&show_icons=true&line_height=30&count_private=true&hide=prs&show_icons=true&card_width=400" alt="vutrong" width="100%"/>
     </td>
     <td>
       <p align="center"> 
@@ -61,7 +73,13 @@
   </tr>
 </table>
 
+</p>
+
+
 
 
 # Certificates:
+![AI/ Machine Learning/ Deep Learning Foundation](https://drive.google.com/uc?id=1wn3ORicVBo9ubGXnFFtyorno4Y3ImpSb)<br/>
+![Fundamentals of Deep Learning.](https://drive.google.com/uc?id=1yuKifsL6kX9PwjhqP6ckSevoBuloBr_a)
+
 
