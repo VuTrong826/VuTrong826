@@ -77,9 +77,6 @@
 
 
 
-
-# Certificates:
-![AI/ Machine Learning/ Deep Learning Foundation](https://drive.google.com/uc?id=1wn3ORicVBo9ubGXnFFtyorno4Y3ImpSb)<br/>
-![Fundamentals of Deep Learning.](https://drive.google.com/uc?id=1yuKifsL6kX9PwjhqP6ckSevoBuloBr_a)
+<!--# Certificates: -->
 
 
