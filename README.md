@@ -1,10 +1,12 @@
 <img align="left" width="400" src="https://github.githubassets.com/images/modules/profile/profile-first-repo.svg">
 <h1 align="center">Hi 👋, I'm Vu Trong</h1>
 👩🏻‍💻 AI student sharing my journey and insights in machine learning, deep learning<br/>
+📊 Currently focused on data analysis and building AI models<br/>
 👩🏻‍🎓 Studying Artificial Intelligence at the University of Science and Technology, University of Danang<br/>
 💡 Developing machine learning models, exploring technology, and optimizing study workflows<br/>
 🌱 Documenting my self-learning and discoveries in my digital garden<br/>
-                                                                       📊 Currently focused on data analysis and building AI models<br/>
+
+                                                                       
 <p align="center">
   <h3 align="center">A Passionate AI Developer From VietNam 🇻🇳 </h3>
 </p>
