@@ -77,8 +77,9 @@
 
 </p>
 
-
-
 <!--# Certificates: -->
+<a href="https://github.com/VuTrong826/Faster-R-CNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=Faster-R-CNN&theme=radical" />
+</a>
 
 
