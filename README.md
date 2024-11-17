@@ -81,7 +81,10 @@
 <a href="https://github.com/VuTrong826/Faster-R-CNN">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=Faster-R-CNN&theme=radical&cache_seconds=10" />
 </a>
-
+<a href="https://github.com/VuTrong826/YOLOv8-Tumor-Segmentation">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=YOLOv8-Tumor-Segmentation&theme=merko" />
+</a>
 
 
 
