@@ -85,9 +85,9 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=YOLOv8-Brain-Tumor-Segmentation&theme=merko" />
 </a>
-<a href="https://github.com/VuTrong826/Warning_collision/">
+<a href="https://github.com/VuTrong826/YOLOv5-FootBall-Player">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=Warning_collision&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=YOLOv5-FootBall-Player&theme=dracula" />
 </a>
 <a href="https://github.com/VuTrong826/CIFAR10_CNN/">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
