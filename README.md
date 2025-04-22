@@ -93,5 +93,8 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=CIFAR10_CNN&theme=highcontrast" />
 </a>   
-
+<a href="https://github.com/VuTrong826/VuTrong826-Brain-Tumor-Segmentation-using-Unet-DeepLabV3Plus">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VuTrong826&repo=VuTrong826-Brain-Tumor-Segmentation-using-Unet-DeepLabV3Plus&theme=dracula" />
+</a>
 
